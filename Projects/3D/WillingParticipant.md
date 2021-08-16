@@ -1,21 +1,20 @@
-<!-- https://sneepypixels.github.io/Projects/3D/WillingParticipant -->
+<!-- Quicklink https://sneepypixels.github.io/Projects/3D/WillingParticipant -->
 
 ## Devlog
 ### Tentative To Do List:
-|Area | Tasks|
------------- | -------------
-Area 1 | Elevator Button Panel
-|| Front Desk Furniture models|
-|| Wall Decor
-|| Bathroom Textures
-|| Bathroom objects (sink, toilet, etc.)
-|| Bathroom mirror(?)
-|| Introductory TV(?)
-|| Front Door)
-Area 2 | * Surface texture
-|| Surface texture
-|| Lighting
-|| Cohensive level design
+Area 1
+* Elevator Button Panel
+* Front Desk Furniture models|
+* Wall Decor
+* Bathroom Textures
+* Bathroom objects (sink, toilet, etc.)
+* Bathroom mirror(?)
+* Introductory TV(?)
+* Front Door)
+Area 2
+* Surface texture
+* Lighting
+* Cohensive level design
 
 ### Notes
 
