@@ -1,6 +1,5 @@
-## Devlog
-### Tentative To Do List:
-#### Area 1 | 
+## Tentative To-Do List:
+#### Area 1
 * Elevator Button Panel
 * Front Desk Furniture models|
 * Wall Decor
@@ -15,7 +14,7 @@
 * Lighting
 * Cohensive level design
 
-### Notes
+## Devlog Notes
 
 ##### 8/16/2021
 
