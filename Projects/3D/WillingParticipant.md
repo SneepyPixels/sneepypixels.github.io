@@ -2,15 +2,17 @@
 
 ## Devlog
 ### Tentative To Do List:
+
 Area 1
 * Elevator Button Panel
-* Front Desk Furniture models|
+* Front Desk Furniture models
 * Wall Decor
 * Bathroom Textures
 * Bathroom objects (sink, toilet, etc.)
 * Bathroom mirror(?)
 * Introductory TV(?)
-* Front Door)
+* Front Door
+
 Area 2
 * Surface texture
 * Lighting
