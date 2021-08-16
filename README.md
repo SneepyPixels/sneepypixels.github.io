@@ -4,4 +4,4 @@ Main Page Placeholder
 
 Links:
 
-[Willing Participant](https://sneepypixels.github.io/Projects/3D/WillingParticipant)
+[WillingParticipant](https://sneepypixels.github.io/Projects/3D/WillingParticipant)
