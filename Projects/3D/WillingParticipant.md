@@ -1,7 +1,6 @@
 <!-- Quicklink https://sneepypixels.github.io/Projects/3D/WillingParticipant -->
-
-## Devlog
-### Tentative To Do List:
+# DEVLOG
+## Tentative To Do List:
 
 Area 1
 * Elevator Button Panel
@@ -18,7 +17,7 @@ Area 2
 * Lighting
 * Cohensive level design
 
-### Notes
+## Notes
 
 ##### 8/16/2021
 
