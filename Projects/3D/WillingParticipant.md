@@ -2,7 +2,7 @@
 # DEVLOG
 ## Tentative To Do List:
 
-Area 1
+Waiting Room Area
 * Elevator Button Panel
 * Front Desk Furniture models
 * Wall Decor
@@ -12,12 +12,20 @@ Area 1
 * Introductory TV(?)
 * Front Door
 
-Area 2
-* Surface texture
+Area 1
+* Surface textures
 * Lighting
 * Cohensive level design
 
 ## Notes
+
+##### 8/19/2021
+ Narrative
+ - Further scaled down scope of narrative. Changed premise to more of a "Haunted House" experience with alternate paths
+ - Game description conceptualized with mechanic in mind.
+
+Environment
+ - Work on level design for Area 1
 
 ##### 8/16/2021
 
